@@ -1,3 +1,3 @@
-# AP-Project-Repository---Stewart-Murithi
+# ADA-Project-Repository---Stewart-Murithi
 
 This repository has two types of datasets: raw format excel spreadsheets containing the original data, and formatted csv files containing the treated data. The csv files are the product of the sorting code (any included Python file with 'Sort') that treats and converts the excel spreadsheets into csv files. Otherwise, for timesaving purposes, the true Python file of importance (TornadoPred2.py) only relies on the csv files and not the excel spreadsheets. To be able to run TornadoPred2.py there is no need to first run all the other 'Sort' Python files. Additional files include a Jupyter notebook with the code for the graphs and the saved model from the TornadoPred2.py file.
